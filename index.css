@@ -110,7 +110,8 @@ a
     left: 20%;
     display: flex;
     width: 60%;
-    height: 10rem;
+    height: 13rem;
+    padding: 1rem 0 1rem 1rem;
     background-color: white;
 }
 .modal-img-container{
@@ -238,12 +239,6 @@ a
         padding: 2rem 0 1rem 3rem;
         
     }
-    .cart-content {
-        position: absolute;
-        width: 15rem;
-        left: -90px;
-        width: 15rem;
-    }
     .dropdown a, .indicator, h1{
         font-size: 1rem;
     }
@@ -268,3 +263,18 @@ a
         padding-left: 1rem;
     }
 }
+@media screen and (max-width: 915px){
+    .cart-content {
+        position: absolute;
+        width: 15rem;
+        left: -130px;
+        width: 15rem;
+    }
+    
+    .item{
+        margin: 1rem;
+        padding: 2rem 1rem ;
+    }
+}
+    
+
