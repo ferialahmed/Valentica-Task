@@ -4,3 +4,6 @@
 * There is a Quick View modal for each product displayed as a result for the click event on the 'Quick View' has the same details in the card.
 * Adding or Removing products to cart will affect the state of the product in navbar dropdown, product Card and quick view modal.
 * LocalStorage is used to store the original array of products and the array of the products in the cart.
+
+# Website Link
+* https://transcendent-peony-d84a7e.netlify.app/
